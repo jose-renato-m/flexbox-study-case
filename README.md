@@ -2,13 +2,13 @@
   <img src="https://ik.imagekit.io/dfw3q47dv0/flexbox_l39_gmAYTc.png">
 </h1>
 
-## 📝 Description
+## 📝  Description
 
 This repository aims to be a case study of **FlexBox**, based on a class of **Bootcamp GoStack** of **Rocketseat School**. This repository doesn't intend to be an app or any functional program and if you clone it, you will just be able to open the code, start a live server and make changes into the code to see what happens on the screen, just to test FlexBox's functionalities.
 
 ---
 
-## 💻 Used Technologies
+## 💻  Used Technologies
 
 This case study has used the following technologies:
 
@@ -16,7 +16,9 @@ This case study has used the following technologies:
 - CSS
 - FlexBox
 
-## 📁 Download
+---
+
+## 📁  Download
 
 ```bash
 
@@ -34,4 +36,6 @@ $ code .
 ```
 Obs.: to open the code editor, use the one you prefer most. Maybe the form to open it on your machine might be different from discribed here.
 
-Made with 💙 by José Renato Montagnana 👋🏻 [Get in touch!](https://www.linkedin.com/in/joserenato-devfullstack/)
+---
+
+Made with 💙  by José Renato Montagnana 👋🏻 [Get in touch!](https://www.linkedin.com/in/joserenato-devfullstack/)
